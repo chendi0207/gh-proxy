@@ -1,0 +1,60 @@
+{
+  "urls": [
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/yd/yd.json",
+      "name": "☣有毒🚀"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/jin.锦哥哥/jin.锦哥哥.json",
+      "name": "🚀锦哥哥유"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/996/996.json",
+      "name": "✈996秒播✈"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/fty/fty.json",
+      "name": "🚀饭太硬"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/xn--z7x900a/xn--z7x900a.json",
+      "name": "🚀肥猫"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/yunxingriji/yunxingriji.json",
+      "name": "🐹云星日记"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/ali/ali.json",
+      "name": "🚀阿里"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/duo/duo.json",
+      "name": "🚀多多"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/1031hxzx/1031hxzx.json",
+      "name": "🚀恒星☄"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/svip/svip.json",
+      "name": "🚀运输车"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/荷城茶秀/荷城茶秀.json",
+      "name": "🚀荷城茶秀"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/蚂蚁家庭/111.json",
+      "name": "🚀蚂蚁家庭"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/蚂蚁阿里/111.json",
+      "name": "🚀蚂蚁阿里"
+    },
+    {
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tv/少儿频道/少儿频道.json",
+      "name": "🚀少儿频道"
+    }
+  ]
+}
