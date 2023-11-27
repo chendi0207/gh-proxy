@@ -21,6 +21,10 @@
       "name": "秒播路线"
     },
     {
+      "name": "💕巧技APP线路",
+      "url": "http://cdn.qiaoji8.com/tvbox.json"
+    },
+    {
       "name": "🚡阿里精品",
       "url": "http://yydsys.top/duo/ali"
     },
