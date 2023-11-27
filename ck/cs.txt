@@ -4,7 +4,7 @@
       "name": "🐼肥猫宝贝👙",
       "url": "http://肥猫.live"
     },
-   {
+    {
       "name": "💕全部4k资源",
       "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
     },
@@ -16,7 +16,10 @@
       "name": "🐼熊猫不叫猫🐼",
       "url": "https://cwb0207.online/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
     },
-{ "url": "https://123.155123.xyz/996.json", "name": "秒播路线" },
+    {
+      "url": "https://123.155123.xyz/996.json",
+      "name": "秒播路线"
+    },
     {
       "name": "🚡阿里精品",
       "url": "http://yydsys.top/duo/ali"
@@ -45,7 +48,7 @@
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
       "name": "⚜️讴歌家庭线路"
     },
-     {
+    {
       "name": "💗锦哥",
       "url": "http://jin.锦哥哥.love"
     },
