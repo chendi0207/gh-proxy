@@ -16,6 +16,7 @@
       "name": "🐼熊猫不叫猫🐼",
       "url": "https://cwb0207.online/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
     },
+{ "url": "https://123.155123.xyz/996.json", "name": "秒播路线" },
     {
       "name": "🚡阿里精品",
       "url": "http://yydsys.top/duo/ali"
