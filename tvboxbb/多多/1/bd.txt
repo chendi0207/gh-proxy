@@ -27,4 +27,3 @@
 { "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/少儿频道/api.json", "name": "少儿频道" },
 
 { "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/动漫频道/api.json", "name": "动漫频道" }]}
->>>>>>> c6996d10a0d079427a8edb5712616b7538da2bf9
