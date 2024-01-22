@@ -1,29 +1,29 @@
-{ "urls": [{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/饭太硬/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/小米/api.json", "name": "小米" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/小米/api.json", "name": "小米" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/PG/api.json", "name": "PG" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/PG/api.json", "name": "PG" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/肥猫/api.json", "name": "肥猫" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/肥猫/api.json", "name": "肥猫" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/香雅情XYQ/api.json", "name": "香雅情XYQ" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/香雅情XYQ/api.json", "name": "香雅情XYQ" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/道长js/api.json", "name": "道长js" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/道长js/api.json", "name": "道长js" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/天天开心/api.json", "name": "天天开心" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/天天开心/api.json", "name": "天天开心" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/多多/api.json", "name": "多多" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/多多/api.json", "name": "多多" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/菜妮丝/api.json", "name": "菜妮丝" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/菜妮丝/api.json", "name": "菜妮丝" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/南风/api.json", "name": "南风" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/南风/api.json", "name": "南风" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/骚零/api.json", "name": "骚零" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/骚零/api.json", "name": "骚零" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/荷城茶秀/api.json", "name": "荷城茶秀" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/荷城茶秀/api.json", "name": "荷城茶秀" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json", "name": "短剧频道" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json", "name": "短剧频道" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/少儿频道/api.json", "name": "少儿频道" },
 
-{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/动漫频道/api.json", "name": "动漫频道" }]}
+{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/chendi0207/gh-proxy/master/tvboxbb/动漫频道/api.json", "name": "动漫频道" }]}
